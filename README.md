@@ -1,4 +1,4 @@
-# John Robinson's Online/Offline Budget Tracker
+# John Robinson's Online/Offline Budget Tracker (PWA)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website](https://img.shields.io/website-portfolio-down-green-red/http/lbesson.bitbucket.org.svg)](https://jrobi133.github.io/PortfolioJohnRobinson/index.html)
 ## Description:
