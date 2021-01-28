@@ -15,7 +15,7 @@
     ],    
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "./index.html",
+    "start_url": "/",
     "description": "Budget tracking application with offline use for travelers.",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
