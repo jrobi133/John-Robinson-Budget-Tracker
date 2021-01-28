@@ -26,7 +26,7 @@ To install necessary dependencies, run the following command:
     
 ## Usage
     
-This app uses a mongo database and hosting on Heroku. Also uses express, and mongoose that are installed as dependencies.
+This app uses a mongo database and hosting on Heroku. checkout all dependencies to see whats being used. You can download this app as a pwa and can be used offline.
     
     
 ## License
@@ -50,3 +50,9 @@ To run test, run the following command:
 If you have any question about the repo, open an issue or contact me directly at 
 johnarobinson133@gmail.com. You can find more of my work on my gitHub at :
 https://github.com/jrobi133
+
+![](/assets/screenshot.PNG)
+![](/assets/screenshot2.PNG)
+![](/assets/screenshot3.PNG)
+![](/assets/screenshot4.PNG)
+![](/assets/screenshot5.PNG)
